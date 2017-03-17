@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Elise Castillo"
-baseurl = "http://example.org/"
+baseurl = "https://elisecastillo.github.io/"
 theme = "hyde"
 
 [params]
