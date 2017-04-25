@@ -1,7 +1,7 @@
 languageCode = "en-us"
 title = "Elise Castillo"
-baseurl = "https://elisecastillo.github.io/"
+baseurl = "https://elisecastillo.com/"
 theme = "hyde"
 
 [params]
-  description = "Ph.D candidate @ U.C. Berkeley Graduate School of Education"
+  description = "Ph.D candidate @ UC Berkeley Graduate School of Education"
