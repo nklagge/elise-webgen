@@ -7,6 +7,7 @@ weight = 4
 
 #### Dissertation (in progress):  
 Maintaining a Mission in a Market-Based Context: Policy Advocacy and Engagement Among Charter Schools in New York City
+
 Committee: Janelle Scott (Chair), Daniel Perlstein, Christopher Ansell
 
 #### Dissertation Abstract
